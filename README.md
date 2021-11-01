@@ -2,7 +2,7 @@
 
 J5 Software Design Class Practice Team **2Y3T**
 
-This game like a *breakout** like a **shooter**.
+This game like a **breakout** like a **shooter**.
 
 ## Description
 
