@@ -26,33 +26,33 @@ Please download [Processing](https://processing.org/download "Download")(I'm tes
 
 1. Fork it ([SoftwareDesign/master](https://github.com/Tanaka-Ko/SoftwareDesign/tree/master "master")).
 
-1. clone downloaded repo
+2. clone downloaded repo
 ```zsh
 $ git clone https://github.com/your_id/SoftwareDesign/
 ```
 
-1. register upstream branch
+3. register upstream branch
 ```zsh
 $ git remote add upstream https://github.com/Tanaka-Ko/SoftwareDesign.git
 ```
 
-1. merge upstream branch
+4. merge upstream branch
 ```zsh
 $ git merge upstream/develop
 ```
-1. Create your feature branch 
+5. Create your feature branch 
 ```zsh
 $ git switch -c my-new-feature)
 ```
 
-1. make a some commit
+6. make a some commit
 
-1. push to the branch
+7. push to the branch
 ```zsh
 $ git push origin my-new-feature
 ```
 
-1. create a new pull request
+8. create a new pull request
 
 ## Licence
 
