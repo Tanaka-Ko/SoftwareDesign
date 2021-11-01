@@ -24,17 +24,35 @@ Please download [Processing](https://processing.org/download "Download")(I'm tes
 
 ## Contribution
 
-~~1. Fork it ([SoftwareDesign/master](https://github.com/Tanaka-Ko/SoftwareDesign/tree/master "master")).~~
+1. Fork it ([SoftwareDesign/master](https://github.com/Tanaka-Ko/SoftwareDesign/tree/master "master")).
 
-~~2. Create your feature branch (git checkout -b my-new-feature).~~
+1. clone downloaded repo
+```zsh
+$ git clone https://github.com/your_id/SoftwareDesign/
+```
 
-~~3. Commit your changes (git commit -am 'Add some feature').~~
+1. register upstream branch
+```zsh
+$ git remote add upstream https://github.com/Tanaka-Ko/SoftwareDesign.git
+```
 
-~~4. Push to the branch (git push origin my-new-feature).~~
+1. merge upstream branch
+```zsh
+$ git merge upstream/develop
+```
+1. Create your feature branch 
+```zsh
+$ git switch -c my-new-feature)
+```
 
-~~5. Create new Pull Request~~
+1. make a some commit
 
-***If you find a good way, write it.***
+1. push to the branch
+```zsh
+$ git push origin my-new-feature
+```
+
+1. create a new pull request
 
 ## Licence
 
