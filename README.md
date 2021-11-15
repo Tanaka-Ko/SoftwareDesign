@@ -20,10 +20,20 @@ This game is one of the practice given in the system design class.
 
 ## Install
 
+Install Unity Version 2020.1.17f1
+
+- Windows
+  - Download and Install [Unity](https://unity3d.com/jp/get-unity/download "Download") Hub (or Choose Unity Version)
+
+- Mac/Linux
+  - I don't know so please check
+  
+<!--
 Please download [Processing](https://processing.org/download "Download")(I'm testing with **4.0 beta 2**).
+-->
 
 ## Contribution
-
+　
 1. Fork it ([SoftwareDesign/master](https://github.com/Tanaka-Ko/SoftwareDesign/tree/master "master")).
 
 2. clone downloaded repo
